@@ -1,8 +1,7 @@
 # Public-Resource
 
 ## Introduction
-
-`public-resource` is an open-source project designed to store and share a variety of public resources, including token information, images, symbols, and more. This project offers a convenient resource repository for developers and designers, providing easy access and use of these resources.
+`public-resource` is an open source library used to store token information on the bevm network.
 
 ## Features
 
